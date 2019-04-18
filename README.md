@@ -12,7 +12,7 @@ Seu app deve ser capaz de:
 4. Receber a resposta da API e exibir no APP
 
 ###### Dados de apoio:
-Enviar uma chamada do tipo POST para a URL:
+Enviar uma chamada do tipo **POST** para a URL:
 `https://tv.dodvision.com/test-app/`
 
 Conteúdo esperado:
@@ -22,7 +22,7 @@ Conteúdo esperado:
 ``
 
 ###### IMPORTANTE:
-deve ser um objeto do tipo JSON válido, pois o servidor espera estes elementos corretamente.
+deve ser um objeto do tipo **JSON** válido, pois o servidor espera estes elementos corretamente.
 
 ###### Exemplo de resposta:
 
@@ -40,7 +40,7 @@ deve ser um objeto do tipo JSON válido, pois o servidor espera estes elementos 
 }
 ``
 ###### IMPORTANTE:
-Você deve interpretar esta resposta de retorno e exibir a tela a imagem contida no elemento "final_image"
+Você deve interpretar esta resposta de retorno e exibir na tela a imagem contida no elemento **"final_image"**.
 
 
 Bom, se você chegou até aqui. Parabéns, agora é só gerar o app mandar para nós junto com o código para validarmos, ok?
