@@ -1,11 +1,10 @@
 URL:
 https://tv.dodvision.com/test-app/
 
-
-lembre-se de no seu código RETIRAR o início do cabeçalho base64:
+Lembre-se de no seu código RETIRAR o início do cabeçalho base64:
 data:image/jpeg;base64,
 
-(veja o aqruivo base64.txt)
+(veja o arquivo base64.txt)
 
 após isso, basta montar o JSON descrito no README e enviar a requisição.
 
@@ -15,10 +14,9 @@ No retorno, haverá um elemento "final_image", ele conterá a imagem que você m
 Pegue esta imagem e exiba dentro do seu app.
 
 A URL completa dela será:
-https://tv.dodvision.com/<conteudo do final_image>
+https://tv.dodvision.com/<conteúdo do final_image>
 
 
 
 Qualquer dúvida:
-
 fillipe@executive.com.br
