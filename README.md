@@ -1,8 +1,8 @@
-# vagas-dod
+# Vagas da Dod
 
 Bem vindo(a) a jornada. Aqui você vai encontrar todos os detalhes para o teste!
 
-#Flutter
+# Flutter
 Para o teste de Dev Flutter, você deve completar as seguintes tarefas:
 
 Seu app deve ser capaz de:
